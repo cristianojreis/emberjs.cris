@@ -1,2 +1,2 @@
 # emberjs.cris
-Meu primeiro projeto EmberJS usando BOWER e todos os recursos de front.
+Projeto de Gestão da Locação de Quartos por Períodos Pré-Definidos com agregação de produtos e serviços adicionais. Kkkkk
